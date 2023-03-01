@@ -14,7 +14,7 @@ export const HeroPage = () => {
         navigate('/marvel', {
             replace: false
         });
-        // navigate(-1);
+        // navigate(-1); -> sirve para sacar de la pagina en la que estaba
     }
 
 
